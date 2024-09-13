@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "4.0 File Paths",
+			"path": ".."
+		},
+		{
+			"name": "Folder0",
+			"path": "."
+		},
+		{
+			"name": "Folder1",
+			"path": "../Folder1"
+		}
+	]
+}
